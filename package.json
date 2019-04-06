@@ -1,0 +1,28 @@
+{
+  "name": "hire-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "8.8.1",
+    "npm": "5.03"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricearonin/hire-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricearonin/hire-api/issues"
+  },
+  "homepage": "https://github.com/ricearonin/hire-api#readme"
+}
